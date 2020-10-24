@@ -1,1 +1,2 @@
 # RANSBOT
+<title>RANSBOT</title>
