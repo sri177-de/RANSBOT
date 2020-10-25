@@ -8,6 +8,25 @@
   - FOD (FULLY UNDETECTABLE)
   - log/read victem's internet activity
   - decryption of encrypted files on the victem's computer
-  - 
+
+# instalation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**DISCLAIMER: THIS IS ONLY DEVOLOPED FOR EDDUCATIONAL PURPOSES ONLY**
+
+
   
   
