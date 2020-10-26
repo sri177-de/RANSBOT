@@ -7,7 +7,7 @@
   - use victem's webcam
   - FUD (FULLY UNDETECTABLE)
   - log/read victem's internet activity
-  - faster encryption. {ASE 256 + 2000 charaters long key}
+  - faster encryption. {AES 256 + 2000 charaters long key}
   
 # PICTURES
 
