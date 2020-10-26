@@ -18,7 +18,7 @@
 **__coming soon__🛠**
 
 
-# Instalation
+# install guide
 
 **__coming soon__🛠**
 
