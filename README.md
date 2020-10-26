@@ -18,7 +18,7 @@
 **__coming soon__🛠**
 
 
-# instalation
+# Instalation
 
 **__coming soon__🛠**
 
