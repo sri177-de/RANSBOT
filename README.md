@@ -5,7 +5,7 @@
   - open/close programs in the victem's computer
   - send notifications/pop ups
   - FUD (FULLY UNDETECTABLE)
-  - log/read victem's internet activity
+  - log/read victim's internet activity
   - faster encryption. {AES 256 + 2000 charaters long key}
   
 # PICTURES
