@@ -4,10 +4,10 @@
   - shutdown/reboot victem's computer
   - open/close programs in the victem's computer
   - send notifications/pop ups
-  - use victem's webcam
-  - FUD (FULLY UNDETECTABLE)
-  - log/read victem's internet activity
+  - FUD (FULLY UNDETECTABLE) [only for subscribed members]
+  - log/read victim's internet activity + passwords
   - faster encryption. {AES 256 + 2000 charaters long key}
+  - custom [backdoor + Ransomeware integrated + (cryptomininer [only for subscribed members])]
   
 # PICTURES
 
