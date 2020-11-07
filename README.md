@@ -1,14 +1,15 @@
 
 # Features
-
-  - shutdown/reboot victim’s computer
-  - open/close programs in the victim’s computer
+  - open/close programs in the victim's computer
   - send notifications/pop ups
   - FUD (FULLY UNDETECTABLE) [only for subscribed members]
-  - log/read victim's internet activity + passwords
-  - faster encryption. {AES 256 + 2000 characters long key}
-  - custom [backdoor + Ransomware integrated + (crypto miner [only for subscribed members])]
-
+  - log/read victim's internet activity
+  - fast encryption/decryption of files  {AES 256 + 2000 characters long key}
+  - custom [backdoor + Ransomeware integrated + (crypto mininer [only for subscribed members])]
+  - Kill antivirus
+  - privilege escalation & persistence  
+  - botnet {max 100 clients}
+  
   
 # PICTURES
 
