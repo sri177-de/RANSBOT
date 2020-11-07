@@ -1,13 +1,18 @@
 
 # Features
 
-  - shutdown/reboot victem's computer
-  - open/close programs in the victem's computer
+  - shutdown/reboot victim's computer
+  - open/close programs in the victim's computer
   - send notifications/pop ups
   - FUD (FULLY UNDETECTABLE) [only for subscribed members]
   - log/read victim's internet activity
-  - faster encryption. {AES 256 + 2000 charaters long key}
-  - custom [backdoor + Ransomeware integrated + (cryptomininer [only for subscribed members])]
+  - fast encryption/decryption of files  {AES 256 + 2000 characters long key}
+  - custom [backdoor + Ransomeware integrated + (crypto mininer [only for subscribed members])]
+  - Kill antivirus
+  - Pervillage escalation
+  - botnet {max 100 clients}
+  
+
   
 # PICTURES
 
