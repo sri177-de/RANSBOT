@@ -48,7 +48,7 @@
 
 **PLAY SAFE 😎**
 
-[**#licence**] (docs/LICENSE)
+test (docs/LICENSE.txt)
 
   
   
