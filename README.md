@@ -1,6 +1,6 @@
-
-![4573813](https://user-images.githubusercontent.com/70839549/98509971-3f6df700-2288-11eb-8ff1-2a060a899c4d.jpg)
-<a href='https://www.freepik.com/vectors/health'>Health vector created by freepik - www.freepik.com</a>
+<p align="center">
+  <img width="700" height="700" src="https://github.com/penetrators-sec/RANSBOT/blob/main/images/4573813.jpg">
+</p>
 
 # Features
   - open/close programs in the victim's computer
