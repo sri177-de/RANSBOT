@@ -1,6 +1,6 @@
 
 ![19197658](https://user-images.githubusercontent.com/70839549/98501470-535c2d80-2275-11eb-9409-de4d34eec29b.jpg)
-                           <a href='https://www.freepik.com/vectors/computer'>Computer vector created by vectorjuice - www.freepik.com</a>
+<a href='https://www.freepik.com/vectors/computer'>Computer vector created by vectorjuice - www.freepik.com</a>
 
 # Features
   - open/close programs in the victim's computer
