@@ -48,7 +48,7 @@
 
 **PLAY SAFE 😎**
 
-**#licence** (RANSBOT/LICENSE)
+[**#licence**] (docs/LICENSE)
 
   
   
