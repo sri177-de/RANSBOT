@@ -48,7 +48,8 @@
 
 **PLAY SAFE 😎**
 
-test (docs/LICENSE.txt)
+[Read the licence agriment](https://github.com/penetrators-sec/RANSBOT/blob/main/LICENSE)
+
 
   
   
