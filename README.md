@@ -48,5 +48,7 @@
 
 **PLAY SAFE 😎**
 
+**#licence** (docs/LICENSE.md)
+
   
   
