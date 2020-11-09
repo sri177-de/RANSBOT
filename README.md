@@ -51,7 +51,7 @@
 
 **PLAY SAFE 😎**
 
-![Read the licence agriment](https://github.com/penetrators-sec/RANSBOT/blob/main/LICENSE)
+[Read the licence agriment](https://github.com/penetrators-sec/RANSBOT/blob/main/LICENSE)
 
 
   
