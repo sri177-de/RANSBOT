@@ -46,7 +46,7 @@
 **DISCLAIMER: THIS IS ONLY DEVOLOPED FOR EDUCATIONAL PURPOSES ONLY. The authors are not responsible for the catastrophic damage or theft caused.**
 
 
-**-> This project was created for personal intreset and not for malicous purpose.**
+**-> This project was created from personal intreset and not for malicous purpose.**
 
 
 **PLAY SAFE 😎**
