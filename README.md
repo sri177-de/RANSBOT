@@ -51,7 +51,7 @@
 
 **PLAY SAFE 😎**
 
-*** [license](https://github.com/penetrators-sec/RANSBOT/blob/main/LICENSE) ***
+*** [license](https://github.com/penetrators-sec/RANSBOT/blob/main/LICENSE.md) ***
 
 
   
