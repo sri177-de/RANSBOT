@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="700" height="700" src="https://github.com/penetrators-sec/RANSBOT/blob/main/images/4573813.jpg">
+</p>
 
 # Features
   - open/close programs in the victim's computer
